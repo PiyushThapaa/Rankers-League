@@ -17,7 +17,7 @@
   
 # How to setup Rankers League App
 ## Requirements
-1.Node.js
+1.Node.js 
 2.Andriod phone or emulator with expo app downloaded
 
 ## Set up
