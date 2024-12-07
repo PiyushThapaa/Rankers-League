@@ -45,7 +45,7 @@
 ![image](https://github.com/user-attachments/assets/7ed8459c-b6de-4e28-a8f5-8ec0a641135b)
 
 ## Quiz Screen
-![image](https://github.com/user-attachments/assets/a114c652-4e1d-4b33-9dc2-574319c2f8c9)
+![image](https://github.com/user-attachments/assets/c6df8c25-d019-4485-958a-d4cc7faaf89f)
 ![image](https://github.com/user-attachments/assets/935ffb4d-f279-4aa5-921f-66ed22749470)
 ![image](https://github.com/user-attachments/assets/13f59276-e280-44c3-824a-02930e924ac1)
 
