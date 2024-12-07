@@ -28,4 +28,25 @@
 4. Open the terminal and run these command:
        `npm install` (to install the modules)
        `npx expo start` (to start the server)
-5. Now scan the qrcode with the expo scanner        
+5. Now scan the qrcode with the expo scanner     
+
+# Here are some screenshots
+## Register Page
+![image](https://github.com/user-attachments/assets/b18f0c02-9a17-40fa-882e-961e59f28587)
+
+## Login Page
+![image](https://github.com/user-attachments/assets/af545bf9-431c-45ee-8869-50c3eb28eff4)
+
+## Top Player LeaderBoard
+![image](https://github.com/user-attachments/assets/5ab84329-ec12-4db5-93b4-dff9915b016d)
+
+## Profile Screen
+![image](https://github.com/user-attachments/assets/29d8b94c-3468-4d0a-aab4-fc06248975d2)
+![image](https://github.com/user-attachments/assets/7ed8459c-b6de-4e28-a8f5-8ec0a641135b)
+
+## Quiz Screen
+![image](https://github.com/user-attachments/assets/a114c652-4e1d-4b33-9dc2-574319c2f8c9)
+![image](https://github.com/user-attachments/assets/935ffb4d-f279-4aa5-921f-66ed22749470)
+![image](https://github.com/user-attachments/assets/13f59276-e280-44c3-824a-02930e924ac1)
+
+
